@@ -22,6 +22,6 @@ We really want to get as many talented people working on this as possible. We mu
 TBD
 
 ### Anything else
-Please join our discussion on [Slack](#) with any further questions.
+Please join our discussion on Slack with any further questions (ask it@midburn.org for an invite).
 
 ![Midburn Logo](https://dl.dropboxusercontent.com/u/58640686/midburn-logo.png)
